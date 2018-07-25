@@ -6,32 +6,42 @@
 #hanger {
     height: 150px;
     width: 75px;
+    margin: auto;
 }
 
 #main-box {
-
+    height: 450px;
+    width: 150px;
+    margin: auto;
 }
 
 .light {
     border-radius: 60px;
+    margin: auto;
 }
 
+.light-container {
+    height: 150px;
+    width: 150px;
+}
+
+
 .dark-gray {
-    color: #333333;
+    background-color: #333333;
 }
 
 .gray {
-    color: #3c3b41;
+    background-color: #3c3b41;
 }
 
 .red {
-    color: #da656b;
+    background-color: #da656b;
 }
 
 .yellow {
-    color: #f5f384;
+    background-color: #f5f384;
 }
 
 .green {
-    color: #7ef07f;
+    background-color: #7ef07f;
 }
