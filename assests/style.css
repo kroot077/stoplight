@@ -16,12 +16,14 @@
 }
 
 .light {
-    border-radius: 60px;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
     margin: auto;
 }
 
 .light-container {
-    height: 150px;
+    height: 22px;
     width: 150px;
 }
 
@@ -36,6 +38,10 @@
 
 .red {
     background-color: #da656b;
+}
+
+.red:hover {
+    background-color: #f18f94;
 }
 
 .yellow {
