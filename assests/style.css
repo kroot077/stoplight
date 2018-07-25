@@ -1,4 +1,4 @@
-canvas {
+#canvas {
     height: 600px;
     width: 150px;
 }
@@ -13,25 +13,25 @@ canvas {
 }
 
 .light {
-
+    border-radius: 60px;
 }
 
 .dark-gray {
-
+    color: #333333;
 }
 
 .gray {
-
+    color: #3c3b41;
 }
 
 .red {
-
+    color: #da656b;
 }
 
 .yellow {
-
+    color: #f5f384;
 }
 
 .green {
-
+    color: #7ef07f;
 }
